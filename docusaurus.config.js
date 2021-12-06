@@ -18,7 +18,7 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/img-logo.png',
-        href: 'docs/welCome',
+        href: 'docs/welcome',
       },
       items: [
         {
@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()}`,
     },
     prism: {
       theme: lightCodeTheme,
